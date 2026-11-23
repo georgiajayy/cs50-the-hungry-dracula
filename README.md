@@ -2,6 +2,8 @@
 
 A retro Game Boy-inspired 2D arcade catching game built for Harvard's CS50 Week 0 in Scratch.
 
+![The Hungry Dracula Thumbnail](https://github.com/georgiajayy/cs50-the-hungry-dracula/blob/main/thumbnail.jpg?raw=true)
+
 ## Controls & Scoring
 
 * **Move:** Left and Right arrow keys to steer Dracula across the arena.
@@ -28,3 +30,4 @@ A retro Game Boy-inspired 2D arcade catching game built for Harvard's CS50 Week 
 ## Files in This Repository
 
 * `The Hungry Dracula.sb3` — Full Scratch project archive containing all sprites, pixel-art backdrops, sound effects, and scripts.
+* `thumbnail.jpg` — Game thumbnail image.
