@@ -10,7 +10,7 @@ A retro Game Boy-inspired 2D arcade catching game built for Harvard's CS50 Week 
 * **Blood:** `+1` point
 * **Silver Sword:** `+3` points
 * **Garlic:** `-2` points
-* **Time Limit:** 30-second round — score as high as possible before the timer runs out.
+* **Time Limit:** 30-second round, score as high as possible before the timer runs out.
 
 ## How It Works
 
